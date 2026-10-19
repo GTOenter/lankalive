@@ -15,3 +15,5 @@ Add trubadurforbundet.no in Vercel Settings → Domains. Use the DNS records Ver
 
 ## Local
 Run `npm install`, then `npm run dev`. Build: `npm run build`.
+
+Production branch: `main`. Commits to this branch trigger Vercel after the repository is connected.
